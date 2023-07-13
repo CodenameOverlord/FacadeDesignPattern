@@ -1,4 +1,4 @@
-package src.java.amazon;
+package src.amazon;
 
 public class ApplicationNotificationService {
     public void sendNotification() {

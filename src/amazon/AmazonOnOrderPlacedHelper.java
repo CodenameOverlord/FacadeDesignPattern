@@ -1,4 +1,4 @@
-package src.java.amazon;
+package src.amazon;
 
 public class AmazonOnOrderPlacedHelper {
     InvoiceGenerator invoiceGenerator;
